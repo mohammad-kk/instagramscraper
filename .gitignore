@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+profiles/*
+raw_data/*
+!profiles/.gitkeep
+!raw_data/.gitkeep
